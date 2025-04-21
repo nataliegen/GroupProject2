@@ -34,7 +34,7 @@ When looking at national fires that the USFS responds to, the area with the bigg
 
 ![image](https://github.com/user-attachments/assets/199cc231-d3b9-44f0-b175-8b4e32f1e273)
 ![image](https://github.com/user-attachments/assets/997ab525-726e-4bda-a26e-4b28c2f9fb76)
-Alternatively, when looking at fires across the country that the local and state agencies respond to, the area with the biggest fires is actually the Midwest, with states including Montana and North Dakota. Here, the landscape is grasslands and plains, where fires can grow due to open terrain and wind. 
+Alternatively, when looking at fires across the country that the local and state agencies respond to, the area with the highest amount of fires is actually the Midwest, with states including Montana and North Dakota. Here, the landscape is grasslands and plains, where fires can grow due to open terrain and wind. 
 
 ### Analysis and Comparison
 Essentially, fire management for wildfires is something that needs to be tailored to the region, and agencies tend to respond to fires with different characteristics and with different preventative and later containment methods. The USFS tends to respond to more of the large-scale, prolonged incidents on federal land, whereas state and local agencies handle the ones within their jurisdiction, including private fires, which spread faster due to different terrain. Land ownership has a very high predictability of which type of agency will respond to fire occurrences. 
