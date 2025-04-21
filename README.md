@@ -46,3 +46,5 @@ We only applied manipulations in the form of calculated fields to our first visu
 
 ## Tableau Packaged Workbook
 The packaged workbooks containing the visualizations above are attached to this repository.
+[GroupProject2.Q2.twbx.zip](https://github.com/user-attachments/files/19836483/GroupProject2.Q2.twbx.zip)
+
