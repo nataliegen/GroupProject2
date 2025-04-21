@@ -17,5 +17,22 @@ https://catalog.data.gov/dataset/national-usfs-fire-occurrence-point-feature-lay
 ## Question 1
 Question: How does the average acreage burned by wildfires vary by cause and across different regions, and where are fires the most destructive?
 
-Importance: Through this question, we are able to identify the most dangerous causes of fires and equip agencies with the knowledge of specific behaviors and conditions that lead to larger fires. This can result in policy changes if equipment use is a leading cause, or if public use is not regulated enough, along with many other causes. Using analysis like our own, they can present data behind these new laws and give agencies the evidence needed to more effectively allocate their funding and resources to target more dangerous fires. It is also a measure for fire mitigation if they can develop more effective preventive measures for certain causes. 
-!
+Importance: Through this question, we are able to identify the most dangerous causes of fires and equip agencies with the knowledge of specific behaviors and conditions that lead to larger fires. Large wildfires also lead to billions in damages, so understanding preventable patterns is important for resource usage. This can result in policy changes if equipment use is a leading cause, or if public use is not regulated enough, along with many other causes. Using analysis like our own, they can present data behind these new laws to guide smarter, location-specific fire regulations. The data can also give agencies the evidence needed to more effectively allocate their funding and resources to target more dangerous fires. It is a measure for fire mitigation if they can develop more effective preventive measures for certain causes as well.
+![image](https://github.com/user-attachments/assets/6b5d7cff-72fd-44f5-8388-311f67566349)
+
+## Question 2
+Question: Based on agency, what areas are most affected by different sizes of wildfires?
+
+Importance: This question can help us determine which agencies need more funding and resources based on the fire acreage and severity they typically handle. It would also give insight into where the USFS and state/local agencies should put more fire stations based on the areas that tend to be affected the most. From this information, federal, state, and local fire response teams can have more effective emergency preparedness plans in certain areas and preemptively station firefighters in more high-risk regions. This would drive more aware and preventive infrastructure planning based on documented knowledge of areas more prone to fire. 
+![image](https://github.com/user-attachments/assets/fa4ed3f2-72ba-4020-92e1-fadb38fed7af)
+![image](https://github.com/user-attachments/assets/acf5e63e-d6dd-488e-8787-91c5830e81cb)
+When looking at national fires that the USFS responds to, the area with the biggest fires is the Pacific Northwest - including states like California, Oregon, Washington, and Idaho. That tells us some of the catalysts could be climate and geographic differences that make the areas more prone to droughts or more likely to contain dry foliage that fuels large wildfires. 
+
+![image](https://github.com/user-attachments/assets/199cc231-d3b9-44f0-b175-8b4e32f1e273)
+![image](https://github.com/user-attachments/assets/997ab525-726e-4bda-a26e-4b28c2f9fb76)
+Alternatively, when looking at fires across the country that the local and state agencies respond to, the area with the biggest fires is actually the Midwest, with states including Montana and North Dakota. Here, the landscape is grasslands and plains, where fires can grow due to open terrain and wind. 
+
+### Analysis and Comparison
+Essentially, fire management for wildfires is something that needs to be tailored to the region, and agencies tend to respond to fires with different characteristics and with different preventative and later containment methods. The USFS tends to respond to more of the large-scale, prolonged incidents on federal land, whereas state and local agencies handle the ones within their jurisdiction, including private fires, which spread faster due to different terrain. Land ownership has a very high predictability of which type of agency will respond to fire occurrences. 
+
+
