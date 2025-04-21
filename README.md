@@ -35,4 +35,10 @@ Alternatively, when looking at fires across the country that the local and state
 ### Analysis and Comparison
 Essentially, fire management for wildfires is something that needs to be tailored to the region, and agencies tend to respond to fires with different characteristics and with different preventative and later containment methods. The USFS tends to respond to more of the large-scale, prolonged incidents on federal land, whereas state and local agencies handle the ones within their jurisdiction, including private fires, which spread faster due to different terrain. Land ownership has a very high predictability of which type of agency will respond to fire occurrences. 
 
+## Manipulations Applied to the Data Set 
+We only applied manipulations in the form of calculated fields to our first visualization in order to clean up the dataset. We used the Fire Cause calculated field for the *statcause* column to filter data that was duplicated, in the incorrect formatting, or misrepresented. The region calculated field filters outliers in the *totalacres* column and excludes certain erroneous coordinates outside the scope of our analysis. 
+![image](https://github.com/user-attachments/assets/baa22ed7-ed28-4196-acdf-c7bd84965d86)
+![image](https://github.com/user-attachments/assets/270a6316-a488-457f-b4e1-58fcb3028101)
 
+## Tableau Packaged Workbook
+The packaged workbooks containing the visualizations above are attached to this repository.
