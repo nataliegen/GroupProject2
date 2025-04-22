@@ -48,5 +48,3 @@ We only applied manipulations in the form of calculated fields to our first visu
 The packaged workbooks containing the visualizations above are attached to this repository.
 
 [GroupProject2.QUESTION2.twbx.zip](https://github.com/user-attachments/files/19836502/GroupProject2.QUESTION2.twbx.zip)
-
-
